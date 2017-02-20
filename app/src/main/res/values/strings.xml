@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="peso">Weight Kg</string>
+    <string name="altura">Height cm</string>
+    <string name="titulo">Calculation of BMI</string>
+    <string name="desnutrido">The result is Undernourished</string>
+    <string name="normal">The result is Normal</string>
+    <string name="sobrepeso">The result is Overweight</string>
+    <string name="obesidad">The result is Obesity</string>
+    <string name="bajopeso">The result is Under Weight</string>
+    <string name="tuimc">Your BMI is:</string>
+    <string name="error">You must enter weight and height</string>
+    <string name="volver">Range query</string>
+</resources>

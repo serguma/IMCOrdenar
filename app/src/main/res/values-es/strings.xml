@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indice Masa Corporal</string>
+    <string name="altura">Altura cm</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="desnutrido">El resultado es Desnutrido</string>
+    <string name="normal">El resultado es Normal</string>
+    <string name="obesidad">El resultado es Obesidad</string>
+    <string name="peso">Peso Kg</string>
+    <string name="sobrepeso">El resultado es Sobrepeso</string>
+    <string name="titulo">Cáculo del IMC</string>
+    <string name="bajopeso">El resultado es Bajo peso</string>
+    <string name="tuimc">Tu IMC es:</string>
+    <string name="error">Debe introducir el peso y la altura</string>
+    <string name="volver">Consulta de rangos</string>
+</resources>

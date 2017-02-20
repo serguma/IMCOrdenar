@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indice Di Massa Corporea</string>
+    <string name="altura">Altezza</string>
+    <string name="calcular">CALCULATORE</string>
+    <string name="desnutrido">Il risultato è Malnutrito</string>
+    <string name="normal">Il risultato è Normale</string>
+    <string name="obesidad">Il risultato è Obesità</string>
+    <string name="peso">Peso Kg</string>
+    <string name="sobrepeso">Il risultato è Sovrappeso</string>
+    <string name="titulo">Calcolo del IMC</string>
+    <string name="bajopeso">Il risultato è Basso peso</string>
+    <string name="tuimc">Il tuo BMI è:</string>
+    <string name="error">È necessario immettere il peso e l\'altezza</string>
+    <string name="volver">Gamme di query</string>
+</resources>

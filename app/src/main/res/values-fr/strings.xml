@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indice De Masse Corporellle</string>
+    <string name="altura">Hauteur</string>
+    <string name="calcular">CALCULER</string>
+    <string name="desnutrido">Le résultat est Malnutris</string>
+    <string name="normal">Le résultat est Normal</string>
+    <string name="obesidad">Le résultat est Obésité</string>
+    <string name="peso">Poids Kg</string>
+    <string name="sobrepeso">Le résultat est Embonpoint</string>
+    <string name="titulo">Calcul de l\'IMC</string>
+    <string name="bajopeso">Le résultat est Faible poids</string>
+    <string name="tuimc">Votre IMC est:</string>
+    <string name="error">" Vous devez entrer le poids et la hauteur"</string>
+    <string name="volver">Gammes de requête</string>
+</resources>

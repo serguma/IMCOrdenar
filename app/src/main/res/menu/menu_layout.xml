@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gumadev.e2indicemasacorporal">
+
+
+    <item android:title="Historial"
+        android:id="@+id/mhistorial"
+        android:icon="@drawable/history"
+        app:showAsAction="always"/>
+    <item android:title="Información"
+        android:id="@+id/minfo"
+        android:icon="@drawable/info"
+        app:showAsAction="always"
+        />
+    <item android:title="Item"
+        android:id="@+id/msalir"
+        android:icon="@drawable/exit"
+        app:showAsAction="always"
+        />
+</menu>
